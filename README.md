@@ -16,4 +16,4 @@ Elektroniskā klade
 
 ###### lol
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://memepedia.ru/wp-content/uploads/2018/08/p8.jpg)
