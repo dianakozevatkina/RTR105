@@ -11,8 +11,8 @@ Elektroniskā klade
 [This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 - ##  Subtitle
-1. title3
-2. title4
+1. text
+2. text
 
 ###### lol
 
