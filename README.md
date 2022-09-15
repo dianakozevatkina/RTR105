@@ -1,7 +1,7 @@
 # RTR105
 Elektroniskā klade
 
-# Title
+# Linux komandas
 - title1
 - title2
 
