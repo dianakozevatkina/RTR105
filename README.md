@@ -2,7 +2,7 @@
 Elektroniskā klade
 
 ## Linux komandas
-- whoami 
+- whoami -
 - who 
 - last 
 - pwd
