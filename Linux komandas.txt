@@ -1,0 +1,20 @@
+##Linux komandas 09/09/22
+
+    whoami - displays the username of currently logged in user
+    who - displays information about logged in user
+    last - displays information about last logged in user/s
+    pwd (print working directory)- print name of current/working directory
+    ls - lists contents of the directory
+    ls -l lists contents of the directory + info when file/directory was created,
+    ls -a lists contents of the directory + hidden files/folders
+    ls -al
+    cd (change directory)
+    cd ~ - go to home directory
+    clear - clear screen
+    cd /home/user/ - change directory to /home/user
+    mkdir ABC - create directory ABC
+    touch text.txt - creates new file with file name text and txt extension
+    echo "text" - display line of text "text"
+    echo "text" > text.txt - insert word text into text.txt file
+    mv /home/user/text.txt /ABC - move file to directory ABC
+    history - lists all of the last commands that have been recently used (by default last 500 commands)
