@@ -1,0 +1,102 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  df -h
+    4  ls
+    5  ls --help
+    6  whereis ls
+    7  clear
+    8  whereis ls
+    9  cd /user/share/man/man/ls.1.gz
+   10  cd bin/ls /user/share/man/man/ls.1.gz
+   11  cd /bin/ls /user/share/man/man/
+   12  cd /bin/ls/user/share/man/man/
+   13  cd /bin/ls 
+   14  cd /bin/
+   15  ls
+   16  cd ls
+   17  nano ls
+   18  cd /usr/share/man
+   19  ls
+   20  cd man
+   21  ls -a
+   22  cd man1
+   23  ls
+   24  cd 
+   25  ls
+   26  whereis ls
+   27  cd /bin/ls
+   28  cd /bin/
+   29  ls 
+   30  ls -lt /bin/ls
+   31  cat ls
+   32  clear
+   33  ff
+   34  clr
+   35  clear
+   36  ls
+   37  cd ~
+   38  tocuh hello-world 
+   39  touch hello-world 
+   40  ls
+   41  nano hello-world 
+   42  cat hello-world 
+   43  nano hello-world 
+   44  ./hello-world 
+   45  chmod -x hello-world 
+   46  ./hello-world
+   47  chmod +x hello-world 
+   48  ./hello-world
+   49  cp hello-world hello-world1
+   50  ./hello-world1
+   51  rm -f hello-world
+   52  mv hello-world1 hello-world
+   53  ls
+   54  ./hello-world 
+   55  nano hello-world 
+   56  ./hello-world 
+   57  nano hello-world 
+   58  ./hello-world 
+   59  nano hello-world 
+   60  ./hello-world 
+   61  nano hello-world 
+   62  ls 
+   63  echo $PATH
+   64  PATH=$PATH:/home/user:~:. 
+   65  echo $PATH
+   66  ls
+   67  hello-world 
+   68  git clone https://github.com/dianakozevatkina/RTR105
+   69  ls
+   70  mv hello-world RTR105/
+   71  ls
+   72  cd RTR105/
+   73  ls
+   74  nano git-upload
+   75  chmod + git-upload 
+   76  ./git-upload
+   77  ls
+   78  mv git-upload ~/
+   79  ls
+   80  cd ~
+   81  ls
+   82  chmod + git-upload 
+   83  ls
+   84  nano git-upload
+   85  chmod + git-upload 
+   86  ls
+   87  cd RTR105/
+   88  ls
+   89  nano hello-world 
+   90  cd ~
+   91  ls
+   92  nano git-upload 
+   93  ls
+   94  chmod +x git-upload 
+   95  ls
+   96  nano git-upload 
+   97  ./git-upload 
+   98  nano git-upload 
+   99  ls
+  100  cd RTR105/
+  101  ls
+  102  history > history_2309
