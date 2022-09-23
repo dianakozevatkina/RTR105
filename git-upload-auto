@@ -1,0 +1,8 @@
+#! /bin/bash
+
+git add .
+git config --global user.name diana.kozevatkina
+git config --global user.email diana.kozevatkina@edu.rtu.lv
+git commit -m "class_$1"
+git push origin main 
+
