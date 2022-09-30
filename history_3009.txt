@@ -1,0 +1,72 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls
+    4  cd RTR105/
+    5  ls
+    6  mkdir Class_06
+    7  cd Class_06/
+    8  ls
+    9  pwd
+   10  nano first.c
+   11  gcc first.c 
+   12  ls
+   13  nano a.out 
+   14  ./first.x
+   15  ./first.c
+   16  ./a.out 
+   17  gcc first.c -o first.out
+   18  ls
+   19  help -o
+   20  -o
+   21  -o man
+   22  man -o
+   23  clear 
+   24  ls 
+   25  ls
+   26  nano first.c
+   27  ls 
+   28  cd ~
+   29  ls
+   30  cd RTR105/
+   31  ls
+   32  ls -lta
+   33  nano .gitignore
+   34  cd Class_06/
+   35  ls
+   36  nano first.c
+   37  gcc -save-temps first.c -o first.out
+   38  cd ..
+   39  nano .gitignore 
+   40  ls -lt
+   41  ls -lta
+   42  ls -lt 
+   43  cd Class_06/
+   44  ls
+   45  cat first.
+   46  cat first.c
+   47  cat first.i
+   48  echo ?$
+   49  echo $?
+   50  nano first.
+   51  nano first.c
+   52  gcc -save-temps first.c -o first.out
+   53  ls
+   54  ls -lt
+   55  ./first.out 
+   56  nano first.c
+   57  echo ?$
+   58  echo $?
+   59  ./first.out 
+   60  echo $?
+   61  nano first.c
+   62  echo $?
+   63  ./first.out 
+   64  echo $?
+   65  gcc -save-temps first.c -o first.out
+   66  ./first.out 
+   67  echo $?
+   68  nano first.c
+   69  cd ..
+   70  ls
+   71  nano .gitignore
+   72  history > history_3009.txt
