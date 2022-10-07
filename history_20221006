@@ -1,0 +1,92 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo "grfgf/"
+    4  echo "grfgf/n"
+    5  echo "grfgf\n"
+    6  echo "grfgfadaw \n deee"
+    7  echo "grfgfadaw" \n "wdwd"
+    8  echo "grfgfadaw"\n""
+    9  echo "grfgfadaw"\n"ff"
+   10  echo "grfgfadaw /ff"
+   11  echo "grfgfadaw / ff"
+   12  ddsd / 
+   13  fefef \
+   14  echo "grfgfadaw \ ff"
+   15  echo "grfgfadaw \n ff"
+   16  echo "grfgfadaw '\n' ff"
+   17  printf "dddd\nddd"
+   18  printf "dddd\n ddd"
+   19  printf "dddd\n ddd \n"
+   20  clear
+   21  printf "dddd\n ddd \n"
+   22  echo "dddd\n ddd \n"
+   23  echo -e "dddd\n ddd \n"
+   24  echo -e "dddd\n ddd"
+   25  printf "dddd\n ddd"
+   26  printf "dddd\n ddd\"
+   27  printf "dddd\n ddd\n"
+   28  printf "dddd\nddd\n"
+   29  ==========
+   30  echo -e "dddd\ddd\"
+   31  echo -e "dddd\ddd"
+   32  echo -e "dddd\nddd"
+   33  echo -e "dddd\n ddd"
+   34  echo -e "dddd\n ddd\jjj"
+   35  echo -e "dddd\ddd\jjj"
+   36  echo -e "dddd\nddd\jjj"
+   37  echo -e "dddd\tnddd\jjj"
+   38  echo -e "dddd\t nddd\jjj"
+   39  echo -e "dddd\tnddd\rjjj"
+   40  printf -e "dddd\tnddd\rjjj"
+   41  printf"dddd\tnddd\rjjj"
+   42  printf "dddd\tnddd\rjjj"
+   43  printf "dddd\tnddd\nrjjj"
+   44  printf "dddd\tnddd\nrjjj\n"
+   45  printf "dddd\tnddd\nrjjj\nfffff\n"
+   46  printf "dddd\tnddd\nrjjj\fffff\n"
+   47  printf "dddd\tnddd\nrjjj\bfffff\n"
+   48  echo -e "dddd\t nddd\jjj\a"
+   49  echo -e "dddd\t nddd\rjjj\a"
+   50  clera
+   51  clear
+   52  git clone https://github.com/dianakozevatkina/RTR105
+   53  ls
+   54  cd RTR105/
+   55  ls
+   56  mkdir Class_08
+   57  ls
+   58  vm git-upload-auto git-upload
+   59  ls
+   60  mv git-upload-auto git-upload
+   61  ls
+   62  nano cd Class_08
+   63  nano cd Class_08ls
+   64  ls
+   65  nano class_08_scanf_test.c 
+   66  nano class_08_scanf_test.c s
+   67  nano class_08_scanf_test.c sls
+   68  ls
+   69  gcc class_08_printf_test.c 
+   70  ls
+   71  ls -lt
+   72  ./a.out
+   73  .//* scanf example */
+   74  #include <stdio.h>
+   75  int main ()
+   76  {   char str [80];   int i;   printf ("Enter your family name: ");
+   77  gcc -save-temps a.out class_08_printf_test.c 
+   78  ls
+   79  rm -r class_08_printf_test.i
+   80  rm -r class_08_printf_test.o
+   81  rm -r class_08_printf_test.s
+   82  ls
+   83  gcc class_08_printf_test.c -o printf_test.out 
+   84  ls
+   85  ./printf_test.out 
+   86  nano class_08_printf_test.c 
+   87  ./printf_test.out 
+   88  ls
+   89  gcc class_08_scanf_test.c -o scanf_test.out 
+   90  ./scanf_test.out 
+   91  nano class_08_printf_test.c 
+   92  history >> history_20221006
