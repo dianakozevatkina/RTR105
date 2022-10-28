@@ -1,0 +1,23 @@
+/* ciklu konstrukcija lau vairakas reizes pec kartas 
+izpildit vienas un tas pasan koda 
+rindas (alternativa programmetas manuali atkarto rindu)
+*/
+
+// while - kamer
+// do while - darit kamer
+// for - darit lidz
+
+
+//while (izteksme) viena darbiba; // tiek izpildita ja izteiksmes rezultats ir true
+//while (izteksme)
+ // viena darbiba
+//while (izteksme){
+
+	pirma_darbiba; 
+	otra_darbiba;
+
+}
+
+// true - 1 rezultata kaut viena bita 
+// false - 0 visos rezultata bitos 
+
