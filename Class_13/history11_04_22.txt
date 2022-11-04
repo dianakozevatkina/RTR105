@@ -1,0 +1,70 @@
+    7  ls
+    8  git clone https://github.com/dianakozevatkina/RTR105
+    9  ls
+   10  cd RTR105/
+   11  ls
+   12  mkdir Class_13
+   13  ls
+   14  cd Class_13
+   15  ls
+   16  nano user_functions_tests.c
+   17  gcc user_functions_tests.c 
+   18  apt install gcc
+   19  gcc user_functions_tests.c 
+   20  ./a.out 
+   21  ls
+   22  cd ..
+   23  ls
+   24  mv class_08_printf_test.c Class_08/
+   25  ls
+   26  mv class_08_printf_test.c /Class_08/
+   27  mv class_08_printf_test.c /Class_08
+   28  ls
+   29  mv class_08_scanf_test.c /Class_08
+   30  cd Class_13
+   31  ls
+   32  nano user_functions_tests.c 
+   33  cp user_functions_tests.c 
+   34  cp user_functions_tests.c user_functions_tests_better.c 
+   35  ls
+   36  nano user_functions_tests_better.c 
+   37  gcc user_functions_tests_better.c 
+   38  ./a.out 
+   39  ls -l
+   40  gcc -g user_functions_tests_better.c 
+   41  ls
+   42* 
+   43  gd
+   44  gdb a.out 
+   45  apt install gdb -y
+   46  gdb a.out 
+   47  ls
+   48  nano main.c
+   49  nano foo.h
+   50  nano main.c
+   51  ls
+   52  nano foo.c
+   53  gcc -Wall -c foo.c
+   54  gcc -Wall -c main.c
+   55  ls
+   56  ls -
+   57  ls -l
+   58  gcc -o result.out main.o foo.o
+   59  ls
+   60  ./result.out 
+   61  rm *.o 
+   62  ls
+   63  ls -l
+   64  history 50
+   65  history 60
+   66  history 60 > history11_04_22.txt
+   67  ls
+   68  nano history11_04_22.txt 
+   69  nano user_functions_tests_better.c 
+   70  ls
+   71  nano main_with_arg.c
+   72  gcc main_with_arg.c 
+   73  ./a.out 
+   74  clear 
+   75  nano history11_04_22.txt 
+   76  history 70 > history11_04_22.txt
